@@ -21,8 +21,8 @@ This Python script processes videos to extract faces (both realistic and anime) 
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/AsaTyr2018/ScreenCapper.git
+   cd ScreenCap
    ```
 
 2. Install the required dependencies:
