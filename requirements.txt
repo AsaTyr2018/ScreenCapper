@@ -1,0 +1,5 @@
+opencv-python
+face_recognition
+Pillow
+tqdm
+ultralytics
