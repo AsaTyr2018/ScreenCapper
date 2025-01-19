@@ -54,7 +54,7 @@ Ensure the following folder structure exists within your working directory:
 1. Place video files in the `input` folder.
 2. Run the script:
    ```bash
-   python face_detection.py
+   python ScreenCap.py
    ```
 3. Select the detection mode:
    - `1` for realistic face detection (HOG/CNN)
